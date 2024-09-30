@@ -1,0 +1,15 @@
+D:\WENDERSON - CTDS\PROGRAMAÇÃO DE APLICATIVOS\SistemaIMC_Dev\SistemaIMC\bin\Debug\SistemaIMC.exe.config
+D:\WENDERSON - CTDS\PROGRAMAÇÃO DE APLICATIVOS\SistemaIMC_Dev\SistemaIMC\bin\Debug\SistemaIMC.exe
+D:\WENDERSON - CTDS\PROGRAMAÇÃO DE APLICATIVOS\SistemaIMC_Dev\SistemaIMC\bin\Debug\SistemaIMC.pdb
+D:\WENDERSON - CTDS\PROGRAMAÇÃO DE APLICATIVOS\SistemaIMC_Dev\SistemaIMC\obj\Debug\SistemaIMC.csproj.AssemblyReference.cache
+D:\WENDERSON - CTDS\PROGRAMAÇÃO DE APLICATIVOS\SistemaIMC_Dev\SistemaIMC\obj\Debug\SistemaIMC.csproj.CoreCompileInputs.cache
+D:\WENDERSON - CTDS\PROGRAMAÇÃO DE APLICATIVOS\SistemaIMC_Dev\SistemaIMC\obj\Debug\SistemaIMC.exe
+D:\WENDERSON - CTDS\PROGRAMAÇÃO DE APLICATIVOS\SistemaIMC_Dev\SistemaIMC\obj\Debug\SistemaIMC.pdb
+F:\WENDERSON - CTDS\PROGRAMAÇÃO DE APLICATIVOS\SistemaIMC_Dev\SistemaIMC\bin\Debug\SistemaIMC.exe.config
+F:\WENDERSON - CTDS\PROGRAMAÇÃO DE APLICATIVOS\SistemaIMC_Dev\SistemaIMC\bin\Debug\SistemaIMC.exe
+F:\WENDERSON - CTDS\PROGRAMAÇÃO DE APLICATIVOS\SistemaIMC_Dev\SistemaIMC\bin\Debug\SistemaIMC.pdb
+F:\WENDERSON - CTDS\PROGRAMAÇÃO DE APLICATIVOS\SistemaIMC_Dev\SistemaIMC\obj\Debug\SistemaIMC.csproj.AssemblyReference.cache
+F:\WENDERSON - CTDS\PROGRAMAÇÃO DE APLICATIVOS\SistemaIMC_Dev\SistemaIMC\obj\Debug\SistemaIMC.csproj.SuggestedBindingRedirects.cache
+F:\WENDERSON - CTDS\PROGRAMAÇÃO DE APLICATIVOS\SistemaIMC_Dev\SistemaIMC\obj\Debug\SistemaIMC.csproj.CoreCompileInputs.cache
+F:\WENDERSON - CTDS\PROGRAMAÇÃO DE APLICATIVOS\SistemaIMC_Dev\SistemaIMC\obj\Debug\SistemaIMC.exe
+F:\WENDERSON - CTDS\PROGRAMAÇÃO DE APLICATIVOS\SistemaIMC_Dev\SistemaIMC\obj\Debug\SistemaIMC.pdb
